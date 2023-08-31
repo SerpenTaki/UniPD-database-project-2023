@@ -9,7 +9,7 @@
 #define PG_HOST "localhost" // oppure " localhost " o " postgresql "
 #define PG_USER "postgres" // il vostro nome utente
 #define PG_DB "postgres" // il nome del database
-#define PG_PASS "DieD10.1" // la vostra password
+#define PG_PASS "pass" // la vostra password
 #define PG_PORT 5432
 //using namespace std ;
 using std::cout;
