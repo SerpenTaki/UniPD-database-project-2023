@@ -1,7 +1,6 @@
 #include<cstdio>
 #include<iostream>
 #include<fstream>
-#include"libpq/libpq-fe.h"
 #include"funzioni_progetto.h"
 //using namespace std;
 using std::cout;
