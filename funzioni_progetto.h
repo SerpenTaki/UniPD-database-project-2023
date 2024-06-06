@@ -1,5 +1,5 @@
 #ifndef FUNZIONI_PROGETTO_H
-#define FUNZIONI_PRGETTO_H
+#define FUNZIONI_PROGETTO_H
 #include"libpq/libpq-fe.h"
 
 void checkResults( PGresult * res , const PGconn * conn );
